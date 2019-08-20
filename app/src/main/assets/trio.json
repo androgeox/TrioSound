@@ -1,0 +1,242 @@
+{
+  "trio": [
+    {
+      "id": 1,
+      "name": "C maj",
+      "tonika": "C",
+      "terciya": "E",
+      "kvinta": "G"
+    },
+    {
+      "id": 2,
+      "name": "C# maj",
+      "tonika": "x",
+      "terciya": "x",
+      "kvinta": "x"
+    },
+    {
+      "id": 3,
+      "name": "Db maj",
+      "tonika": "Db",
+      "terciya": "F",
+      "kvinta": "Ab"
+    },
+    {
+      "id": 4,
+      "name": "D maj",
+      "tonika": "D",
+      "terciya": "F#",
+      "kvinta": "A"
+    },
+    {
+      "id": 5,
+      "name": "D# maj",
+      "tonika": "x",
+      "terciya": "x",
+      "kvinta": "x"
+    },
+    {
+      "id": 6,
+      "name": "E bmaj",
+      "tonika": "Eb",
+      "terciya": "G",
+      "kvinta": "Bb"
+    },
+    {
+      "id": 7,
+      "name": "E maj",
+      "tonika": "E",
+      "terciya": "G#",
+      "kvinta": "B"
+    },
+    {
+      "id": 8,
+      "name": "F maj",
+      "tonika": "F",
+      "terciya": "A",
+      "kvinta": "C"
+    },
+    {
+      "id": 9,
+      "name": "F# maj",
+      "tonika": "F#",
+      "terciya": "A#",
+      "kvinta": "C#"
+    },
+    {
+      "id": 10,
+      "name": "Gb maj",
+      "tonika": "Gb",
+      "terciya": "Bb",
+      "kvinta": "Db"
+    },
+    {
+      "id": 11,
+      "name": "G maj",
+      "tonika": "G",
+      "terciya": "B",
+      "kvinta": "D"
+    },
+    {
+      "id": 12,
+      "name": "G# maj",
+      "tonika": "x",
+      "terciya": "x",
+      "kvinta": "x"
+    },
+    {
+      "id": 13,
+      "name": "Ab maj",
+      "tonika": "Ab",
+      "terciya": "C",
+      "kvinta": "Eb"
+    },
+    {
+      "id": 14,
+      "name": "A maj",
+      "tonika": "A",
+      "terciya": "C#",
+      "kvinta": "E"
+    },
+    {
+      "id": 15,
+      "name": "A# maj",
+      "tonika": "x",
+      "terciya": "x",
+      "kvinta": "x"
+    },
+    {
+      "id": 16,
+      "name": "Bb maj",
+      "tonika": "Bb",
+      "terciya": "D",
+      "kvinta": "F"
+    },
+    {
+      "id": 17,
+      "name": "B maj",
+      "tonika": "B",
+      "terciya": "D#",
+      "kvinta": "F#"
+    },
+    {
+      "id": 18,
+      "name": "Cm",
+      "tonika": "C",
+      "terciya": "Eb",
+      "kvinta": "G"
+    },
+    {
+      "id": 19,
+      "name": "C#m",
+      "tonika": "C#",
+      "terciya": "E",
+      "kvinta": "G#"
+    },
+    {
+      "id": 20,
+      "name": "Dbm",
+      "tonika": "x",
+      "terciya": "x",
+      "kvinta": "x"
+    },
+    {
+      "id": 21,
+      "name": "Dm",
+      "tonika": "D",
+      "terciya": "F",
+      "kvinta": "A"
+    },
+    {
+      "id": 22,
+      "name": "D#m",
+      "tonika": "D#",
+      "terciya": "F#",
+      "kvinta": "A#"
+    },
+    {
+      "id": 23,
+      "name": "Ebm",
+      "tonika": "Eb",
+      "terciya": "Gb",
+      "kvinta": "Bb"
+    },
+    {
+      "id": 24,
+      "name": "Em",
+      "tonika": "E",
+      "terciya": "G",
+      "kvinta": "B"
+    },
+    {
+      "id": 25,
+      "name": "Fm",
+      "tonika": "F",
+      "terciya": "Ab",
+      "kvinta": "C"
+    },
+    {
+      "id": 26,
+      "name": "F#m",
+      "tonika": "F#",
+      "terciya": "A",
+      "kvinta": "C#"
+    },
+    {
+      "id": 27,
+      "name": "Gbm",
+      "tonika": "x",
+      "terciya": "x",
+      "kvinta": "x"
+    },
+    {
+      "id": 28,
+      "name": "Gm",
+      "tonika": "G",
+      "terciya": "Bb",
+      "kvinta": "D"
+    },
+    {
+      "id": 29,
+      "name": "G#m",
+      "tonika": "G#",
+      "terciya": "B",
+      "kvinta": "D#"
+    },
+    {
+      "id": 30,
+      "name": "Abm",
+      "tonika": "x",
+      "terciya": "x",
+      "kvinta": "x"
+    },
+    {
+      "id": 31,
+      "name": "Am",
+      "tonika": "A",
+      "terciya": "C",
+      "kvinta": "E"
+    },
+    {
+      "id": 32,
+      "name": "A#m",
+      "tonika": "x",
+      "terciya": "x",
+      "kvinta": "x"
+    },
+    {
+      "id": 33,
+      "name": "Bbm",
+      "tonika": "Bb",
+      "terciya": "Db",
+      "kvinta": "F"
+    },
+    {
+      "id": 34,
+      "name": "Bm",
+      "tonika": "B",
+      "terciya": "D",
+      "kvinta": "F#"
+    }
+  ]
+}
